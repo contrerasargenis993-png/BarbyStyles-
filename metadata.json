@@ -1,0 +1,6 @@
+{
+  "name": "Barby Styles 2.0",
+  "description": "Experiencia digital premium de belleza para Barby Styles: Peluquería, Nail Studio, reserva interactiva con WhatsApp y gestión de citas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
